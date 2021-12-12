@@ -3,7 +3,7 @@ import Helmet from "react-helmet";
 import M from 'materialize-css';
 
 import questions from '../../questions.json';
-import isEmpty from '../../utils/is-empty'
+import isEmpty from '../../validation/is-empty'
 
 class Play extends Component {
     constructor (props) {
