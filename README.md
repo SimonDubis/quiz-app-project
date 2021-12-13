@@ -4,7 +4,6 @@
 * Every question contains 4 options.
 * Each game has 2 lifelines namely:
 *     2 50-50 chances and 5 Hints.
-![image](https://user-images.githubusercontent.com/61880815/145730188-7d248fa5-0ed0-4cea-9d63-c1e4750a07bf.png)
 
 #### After the end of the game, the player receives points, if he registered and logged into his account, then his total score for all quests will be displayed in his personal account.
 
