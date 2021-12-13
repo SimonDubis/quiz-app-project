@@ -11,7 +11,6 @@ class Register extends Component {
             username: '',
             email: '',
             password: '',
-            confirmPassword: '',
             loading: false,
             errors: {}
         };
@@ -29,7 +28,7 @@ class Register extends Component {
                             <div className="input-container">
                             <div class="row">
                                 <div class="input-field col s6">
-                                    <input placeholder="Placeholder" id="first_name" type="text" class="validate"/>
+                                    <input id="first_name" type="text" class="validate"/>
                                     <label for="first_name">First Name</label>
                                 </div>
                                 <div class="input-field col s6">
